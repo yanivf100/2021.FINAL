@@ -1,0 +1,17 @@
+{
+    "scale" : {
+        "customers" : 10,
+        "airlines" : 20,
+        "flights_per_airline" : 5,
+        "tickets_per_customer" : 1
+    },
+
+    "db" : {
+        "user" : "postgres",
+        "host" : "localhost",
+        "database" : "skygate",
+        "password" : "ADMIN",
+        "port" : 5432
+
+    }
+}
